@@ -1,0 +1,60 @@
+{b}Err{/b}: on:February 14, 2017 8:04 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:04 am: admin: The photo index table needs to be rebuilt. Please run Photo Albums -> Settings admin page Table VIII-A8.2
+{b}Err{/b}: on:February 14, 2017 8:04 am: admin: The album index table needs to be rebuilt. Please run Photo Albums -> Settings admin page Table VIII-A8.1
+{b}Err{/b}: on:February 14, 2017 8:04 am: cron-job: Unable to create session for user cron-job
+{b}Obs{/b}: on:February 14, 2017 8:04 am: cron-job: Created path: D:/Projekty/Flex3/wp-ipoint/wp-content/wppa-pl
+{b}Err{/b}: on:February 14, 2017 8:04 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:05 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:05 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:05 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:05 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:07 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:07 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:09 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:09 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:11 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:11 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:13 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:13 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:14 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:14 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:14 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:14 am: admin: The photo index table needs to be rebuilt. Please run Photo Albums -> Settings admin page Table VIII-A8.2
+{b}Err{/b}: on:February 14, 2017 8:14 am: admin: The album index table needs to be rebuilt. Please run Photo Albums -> Settings admin page Table VIII-A8.1
+{b}Err{/b}: on:February 14, 2017 8:14 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:15 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:15 am: admin: The photo index table needs to be rebuilt. Please run Photo Albums -> Settings admin page Table VIII-A8.2
+{b}Err{/b}: on:February 14, 2017 8:15 am: admin: The album index table needs to be rebuilt. Please run Photo Albums -> Settings admin page Table VIII-A8.1
+{b}Err{/b}: on:February 14, 2017 8:15 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:15 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:15 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:15 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:15 am: admin: The photo index table needs to be rebuilt. Please run Photo Albums -> Settings admin page Table VIII-A8.2
+{b}Err{/b}: on:February 14, 2017 8:15 am: admin: The album index table needs to be rebuilt. Please run Photo Albums -> Settings admin page Table VIII-A8.1
+{b}Err{/b}: on:February 14, 2017 8:15 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:15 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:16 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:16 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:16 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:16 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:16 am: admin: The photo index table needs to be rebuilt. Please run Photo Albums -> Settings admin page Table VIII-A8.2
+{b}Err{/b}: on:February 14, 2017 8:16 am: admin: The album index table needs to be rebuilt. Please run Photo Albums -> Settings admin page Table VIII-A8.1
+{b}Err{/b}: on:February 14, 2017 8:16 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:16 am: admin: The photo index table needs to be rebuilt. Please run Photo Albums -> Settings admin page Table VIII-A8.2
+{b}Err{/b}: on:February 14, 2017 8:16 am: admin: The album index table needs to be rebuilt. Please run Photo Albums -> Settings admin page Table VIII-A8.1
+{b}Err{/b}: on:February 14, 2017 8:16 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:16 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:16 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:17 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:17 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:17 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:17 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:18 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:18 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:18 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:18 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:18 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:18 am: admin: The photo index table needs to be rebuilt. Please run Photo Albums -> Settings admin page Table VIII-A8.2
+{b}Err{/b}: on:February 14, 2017 8:18 am: admin: The album index table needs to be rebuilt. Please run Photo Albums -> Settings admin page Table VIII-A8.1
+{b}Err{/b}: on:February 14, 2017 8:18 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:February 14, 2017 8:18 am: admin: Unable to create session for user admin
