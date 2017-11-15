@@ -58,3 +58,49 @@
 {b}Err{/b}: on:February 14, 2017 8:18 am: admin: The album index table needs to be rebuilt. Please run Photo Albums -> Settings admin page Table VIII-A8.1
 {b}Err{/b}: on:February 14, 2017 8:18 am: admin: Unable to create session for user admin
 {b}Err{/b}: on:February 14, 2017 8:18 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:35 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:35 am: admin: The photo index table needs to be rebuilt. Please run Photo Albums -> Settings admin page Table VIII-A8.2
+{b}Err{/b}: on:November 15, 2017 11:35 am: admin: The album index table needs to be rebuilt. Please run Photo Albums -> Settings admin page Table VIII-A8.1
+{b}Err{/b}: on:November 15, 2017 11:35 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:35 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:35 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:35 am: admin: The photo index table needs to be rebuilt. Please run Photo Albums -> Settings admin page Table VIII-A8.2
+{b}Err{/b}: on:November 15, 2017 11:35 am: admin: The album index table needs to be rebuilt. Please run Photo Albums -> Settings admin page Table VIII-A8.1
+{b}Fix{/b}: on:November 15, 2017 11:35 am: admin: Sourcepath set to D:/Projekty/Flex3/wp-ipoint/wp-content/uploads/wppa-source
+{b}Err{/b}: on:November 15, 2017 11:37 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:37 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:37 am: admin: The photo index table needs to be rebuilt. Please run Photo Albums -> Settings admin page Table VIII-A8.2
+{b}Err{/b}: on:November 15, 2017 11:37 am: admin: The album index table needs to be rebuilt. Please run Photo Albums -> Settings admin page Table VIII-A8.1
+{b}Err{/b}: on:November 15, 2017 11:37 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:38 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:38 am: admin: Unable to create session for user admin
+{b}Obs{/b}: on:November 15, 2017 11:38 am: admin: Maintenance proc wppa_remake_index_albums started.
+{b}Obs{/b}: on:November 15, 2017 11:38 am: admin: Maintenance proc wppa_remake_index_albums completed
+{b}Err{/b}: on:November 15, 2017 11:38 am: admin: Unable to create session for user admin
+{b}Obs{/b}: on:November 15, 2017 11:38 am: admin: Maintenance proc wppa_remake_index_photos started.
+{b}Obs{/b}: on:November 15, 2017 11:38 am: admin: Maintenance proc wppa_remake_index_photos completed
+{b}Err{/b}: on:November 15, 2017 11:38 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:38 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:39 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:39 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:39 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:39 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:39 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:40 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:40 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:40 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:40 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:40 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:40 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:41 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:41 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:41 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:41 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:41 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:41 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:41 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:42 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:43 am: cron-job: Unable to create session for user cron-job
+{b}Err{/b}: on:November 15, 2017 11:43 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:44 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 15, 2017 11:45 am: admin: Unable to create session for user admin
