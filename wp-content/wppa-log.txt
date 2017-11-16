@@ -104,3 +104,9 @@
 {b}Err{/b}: on:November 15, 2017 11:43 am: admin: Unable to create session for user admin
 {b}Err{/b}: on:November 15, 2017 11:44 am: admin: Unable to create session for user admin
 {b}Err{/b}: on:November 15, 2017 11:45 am: admin: Unable to create session for user admin
+{b}Err{/b}: on:November 16, 2017 8:35 am: 127.0.0.1: Unable to create session for user 127.0.0.1
+{b}Err{/b}: on:November 16, 2017 8:35 am: cron-job: Unable to create session for user cron-job
+{b}Err{/b}: on:November 16, 2017 10:09 am: 127.0.0.1: Unable to create session for user 127.0.0.1
+{b}Err{/b}: on:November 16, 2017 10:09 am: cron-job: Unable to create session for user cron-job
+{b}Err{/b}: on:November 16, 2017 10:10 am: cron-job: Unable to create session for user cron-job
+{b}Err{/b}: on:November 16, 2017 10:12 am: cron-job: Unable to create session for user cron-job
