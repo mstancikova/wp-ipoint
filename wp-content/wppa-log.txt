@@ -114,3 +114,7 @@
 {b}Err{/b}: on:November 30, 2017 10:43 am: cron-job: Unable to create session for user cron-job
 {b}Err{/b}: on:November 30, 2017 10:43 am: 127.0.0.1: Unable to create session for user 127.0.0.1
 {b}Err{/b}: on:November 30, 2017 10:46 am: cron-job: Unable to create session for user cron-job
+{b}Err{/b}: on:December 13, 2017 8:17 am: 127.0.0.1: Unable to create session for user 127.0.0.1
+{b}Err{/b}: on:December 13, 2017 8:17 am: cron-job: Unable to create session for user cron-job
+{b}Err{/b}: on:December 13, 2017 8:18 am: 127.0.0.1: Unable to create session for user 127.0.0.1
+{b}Err{/b}: on:December 13, 2017 8:18 am: cron-job: Unable to create session for user cron-job
